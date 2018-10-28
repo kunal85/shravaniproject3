@@ -1,0 +1,10 @@
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\bin\Debug\gugundabattulaProject3A.exe.config
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\bin\Debug\gugundabattulaProject3A.exe
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\bin\Debug\gugundabattulaProject3A.pdb
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\obj\Debug\gugundabattulaProject3A.csprojAssemblyReference.cache
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\obj\Debug\gugundabattulaProject3A.Form1.resources
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\obj\Debug\gugundabattulaProject3A.Properties.Resources.resources
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\obj\Debug\gugundabattulaProject3A.csproj.GenerateResource.cache
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\obj\Debug\gugundabattulaProject3A.csproj.CoreCompileInputs.cache
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\obj\Debug\gugundabattulaProject3A.exe
+C:\Users\naikk\Desktop\Shravani\gugundabattulaProject3A\gugundabattulaProject3A\obj\Debug\gugundabattulaProject3A.pdb
