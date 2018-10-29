@@ -1,0 +1,10 @@
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\bin\Debug\gundabattulaProject3B.exe.config
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\bin\Debug\gundabattulaProject3B.exe
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\bin\Debug\gundabattulaProject3B.pdb
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\obj\Debug\gundabattulaProject3B.csprojAssemblyReference.cache
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\obj\Debug\gundabattulaProject3B.Form1.resources
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\obj\Debug\gundabattulaProject3B.Properties.Resources.resources
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\obj\Debug\gundabattulaProject3B.csproj.GenerateResource.cache
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\obj\Debug\gundabattulaProject3B.csproj.CoreCompileInputs.cache
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\obj\Debug\gundabattulaProject3B.exe
+C:\Users\naikk\source\repos\gundabattulaProject3B\gundabattulaProject3B\obj\Debug\gundabattulaProject3B.pdb
